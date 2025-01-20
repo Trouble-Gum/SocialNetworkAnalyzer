@@ -1,0 +1,16 @@
+# ignore all
+*
+
+# except
+!config.py
+!main.py
+!ok.py
+!pyvenv.cfg
+!readme.md
+!requirements.txt
+!settings_pattern.txt
+!SNA_unload.bat
+!tg.py
+!utils.py
+!vk.py
+!.gitignore
